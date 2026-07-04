@@ -1,0 +1,6 @@
+{
+  "name": "HM Sports",
+  "description": "Premium sports and fitness e-commerce store in Pakistan, featuring high-performance massage guns, training gear, and recovery equipment with nationwide Cash on Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
